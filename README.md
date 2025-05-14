@@ -6,7 +6,7 @@ This project is a compact, UART-controlled 8-motor driver board powered by an ex
 
 ## 🖼️ Visual Overview
 
-### Your Custom Motor Driver Board (This Repo)
+### L293D Motor Driver Board (This Repo)
 **Simulated 3D View**  
 ![3D Render](https://github.com/cperos-xr/l293d/raw/main/L293dBoard.png)
 
